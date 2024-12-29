@@ -15,6 +15,12 @@ public class Git_2024246 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
+        //Outputting the name and the student ID
+        System.out.println("Magnun Mariano - 2024246");
+        
+        
+        
     }
     
 }
